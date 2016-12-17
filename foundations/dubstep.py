@@ -36,3 +36,4 @@ def song_decoder(song):
     return output
 
 # Alternative answer
+# Did not provide the answer into Code Wars. 

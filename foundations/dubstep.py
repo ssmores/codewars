@@ -36,4 +36,5 @@ def song_decoder(song):
     return output
 
 # Alternative answer
-# Did not provide the answer into Code Wars. 
+def song_decoder(song):
+    return " ".join(song.replace('WUB', ' ').split())
